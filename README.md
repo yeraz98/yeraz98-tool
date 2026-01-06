@@ -21,4 +21,4 @@ python yeraz98.py
 Bu alət yalnız təhsil və öz şəbəkənizi test etmək üçündür. Qeyri-qanuni istifadəyə görə müəllif məsuliyyət daşımır.
 
 **Müəllif:** [yeraz98](https://github.com/yeraz98)  
-**E-poçt:** serxanxudabendeyev13@gmail.com
+
